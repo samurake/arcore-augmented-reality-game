@@ -11,15 +11,15 @@ The project called AR Board Game Library consists in integrating a library of mu
 
 
 ### The project will have the following key features:
--a login system where you can use your facebook, google, microsoft accounts or a custom account
--a lobby system where you can add your surrounding friends or somebody that is not there and still wants to enjoy the fun
--a board game library in a modular fashion that consists in a collection of board games implemented specifically for this application. If possible that should contain a way for future developers to actually create they're own board game and add it to the application
--board creation mode: a tutorial for each user at the beginning of the game that will help them put all the pieces on a flat surface by using ARCore's motion tracking feature
--play mode: hardest part where the game logic found in game library module is used by the ARCore module to create an AR experience for the users
--a streaming feature used in this project's presentation that can be enabled/disabled by the user
+* A login system where you can use your facebook, google, microsoft accounts or a custom account.
+* A lobby system where you can add your surrounding friends or somebody that is not there and still wants to enjoy the fun.
+* A board game library in a modular fashion that consists in a collection of board games implemented specifically for this application. If possible that should contain a way for future developers to actually create they're own board game and add it to the application.
+* Board creation mode: a tutorial for each user at the beginning of the game that will help them put all the pieces on a flat surface by using ARCore's motion tracking feature.
+* Play mode: hardest part where the game logic found in game library module is used by the ARCore module to create an AR experience for the users.
+* A streaming feature used in this project's presentation that can be enabled/disabled by the user.
 
 ### Project Resources:
--ARCore library: https://developers.google.com/ar/discover/
--login system, database and backend: https://firebase.google.com/
+* ARCore library: https://developers.google.com/ar/discover/
+* Login system, database and backend: https://firebase.google.com/
 
 
